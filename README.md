@@ -15,3 +15,8 @@ Levels of Logging: There are five levels of logging, you can create more, but th
 3. Warning: 30
 4. Error: 40
 5. Critical: 50
+
+
+- credits: 
+1. Corey Schafer: https://www.youtube.com/watch?v=jxmzY9soFXg
+2. Socratica: https://youtu.be/g8nQ90Hk328?feature=shared
